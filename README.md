@@ -2,5 +2,6 @@
 
 Load list of countries into recyclerView
 
-The demo below with added 2s delay network request
-![Demo](https://user-images.githubusercontent.com/9315393/208543177-7ac37af2-57ea-41e7-a40c-8888aea11abe.gif)
+The demo is below with added 2s delay network request
+
+![Demo](https://user-images.githubusercontent.com/9315393/208545111-5d10de58-a462-4fc3-a380-904261e0683d.gif)
